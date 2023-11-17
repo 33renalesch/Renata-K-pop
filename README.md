@@ -12,13 +12,3 @@
     <img src="kpop.jpg" alt="Imagem do Kpop">
 </body>
 </html>
-
-h1{
-    color:darkslateblue;
-}
-
-
-p{
-    color:indigo;
-    font-size: 25px;    
-}
