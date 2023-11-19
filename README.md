@@ -10,7 +10,6 @@
     <h1> K-pop </h1>
     <p> O K-pop, abreviação de Korean pop, é um fenômeno cultural e musical que vem conquistando o mundo. </p>
     <img src="kpop.jpg" alt="Imagem do Kpop">
-</body>
     <h2>Características do K-pop</h2>
-    <p>O K-pop é conhecido pela diversidade de gêneros musicais, que incluem pop, hip-hop, R&B, rock e música eletrônica. Essa mistura de estilos torna o K-pop um gênero musical rico e dinâmico, capaz de agradar a diferentes gostos e preferências.</p>
+</body>
 </html>
