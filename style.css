@@ -17,3 +17,7 @@ p{
 body {
     background-color: rgb(209, 168, 209);
 }
+
+img {
+    position: middle;
+}
