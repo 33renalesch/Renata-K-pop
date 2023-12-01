@@ -15,5 +15,7 @@
     <h3>Alguns grupos de K-pop:</h3>
     <p>BTS</p>
     <img src="bts.jpg" alt="Imagem do BTS">
+    <p>BLACKPINK</p>
+    <img src="BLACKPINK.jpg" alt="Imagem do BLACKPINK">
 </body>
 </html>
